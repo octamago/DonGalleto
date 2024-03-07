@@ -1,0 +1,19 @@
+{
+    "Error I": {
+        "mensaje": "Intento de inyeccion",
+        "detalles": "Dentro de tu usuario o contraseña se encuentra uno o más caracteres no permitidos."
+    },
+    "Error P": {
+        "mensaje": "Credenciales inválidas",
+        "detalles": "El nombre de usuario o la contraseña proporcionados son incorrectos."
+    },
+    "Error BD": {
+        "mensaje": "Error interno",
+        "detalles": "Hubo un error dentro de la consulta de la base de datos."
+    },
+    "Error V": {
+        "mensaje": "Alguno de los parametros vacio",
+        "detalles": "Falta alguno de los parametros dentro del formulario."
+    }
+}
+
